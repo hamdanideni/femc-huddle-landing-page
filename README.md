@@ -13,8 +13,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/hamdanideni/femc-huddle-landing-page](https://github.com/hamdanideni/femc-huddle-landing-page)
+- Live Site URL: [https://hamdanideni.github.io/femc-huddle-landing-page/](https://hamdanideni.github.io/femc-huddle-landing-page/)
 
 ### Built with
 
@@ -24,5 +24,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [hamdanideni](https://www.your-site.com)
+- Website - [hamdanideni](https://hamdanideni.github.io/)
 - Frontend Mentor - [@hamdanideni](https://www.frontendmentor.io/profile/hamdanideni)
